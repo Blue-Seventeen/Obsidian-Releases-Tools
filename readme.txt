@@ -2,4 +2,4 @@ Obsidian Releases Tools 是一款 Obsidian 笔记发布工具，用于将 Obsidi
 
 笔者正在测试 Git ing.
 
-Creating a new brach is quick.
+Creating a new branch is quick AND Simple.
