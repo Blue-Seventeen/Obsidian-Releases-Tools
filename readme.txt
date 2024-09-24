@@ -4,4 +4,4 @@ Obsidian Releases Tools 是一款 Obsidian 笔记发布工具，用于将 Obsidi
 
 Creating a new Test information.
 
-Change in dev
+Change in dev 2
